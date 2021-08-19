@@ -36,11 +36,11 @@ This name means rainbow in the Latin
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api?username=ALILIYES"></a>
 
-#### My Labels:
+## About me:
 
 ![](https://img.shields.io/badge/-C++-darkblue?style=flat-square&logo=C%2B%2B&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=fff)
-![](https://img.shields.io/badge/macOS-Big sur-292e33?style=flat-square&logo=apple&logoColor=ffffff)
+![](https://img.shields.io/badge/macOS-Bigsur-292e33?style=flat-square&logo=apple&logoColor=ffffff)
 ![](https://img.shields.io/badge/OPPO-Reno-f5010c?style=flat-square&logo=huawei&logoColor=ffffff)
 ![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)
 
