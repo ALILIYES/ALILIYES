@@ -38,13 +38,16 @@ This name means rainbow in the Latin
 
 ## About me:
 
-![](https://img.shields.io/badge/Country-China-f5010c?style=flat-square)
+![](https://img.shields.io/badge/Country%20in-China-f5010c?style=flat-square)
 ![](https://img.shields.io/badge/-C++-darkblue?style=flat-square&logo=C%2B%2B&logoColor=fff)
-![](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=fff)
-![](https://img.shields.io/badge/macOS-Bigsur-292e33?style=flat-square&logo=apple&logoColor=ffffff)
-![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square)
-![](https://img.shields.io/badge/Study%20in-ECNU-green?style=flat-square)
+![](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=Git&logoColor=fff)
+![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/macOS-Big%20sur-292e33?style=flat-square&logo=apple&logoColor=ffffff)
+![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007acc?style=flat-square)
+![](https://img.shields.io/badge/Study%20in-ECNU-ff69b4?style=flat-square)
 ![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)
+![](https://img.shields.io/badge/Education-Postgraduate-9cf?style=flat-square)
+![](https://img.shields.io/badge/Leetcode-ffa116?style=flat-square&logo=leetcode&logoColor=ffffff)
 
 
 <!--You are the ![Vister num, plz refresh](https://visitor-badge.glitch.me/badge?page_id=Nambers.Nambers.readme) *(since 2021/01/25)* !!-->
