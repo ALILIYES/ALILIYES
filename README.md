@@ -27,7 +27,7 @@ Here are some ideas to get you started:
  -->
 
 
-# Hi, here is `Eritque arcus`
+# hello,
 
 Hi~ o(*￣▽￣*)ブ
 
@@ -49,6 +49,7 @@ This name means rainbow in the Latin
 
 ### Common using languages:
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALILIYES&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://img.shields.io/badge/-C++-darkblue?style=flat-square&logo=C%2B%2B&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=fff)
 <!--You are the ![Vister num, plz refresh](https://visitor-badge.glitch.me/badge?page_id=Nambers.Nambers.readme) *(since 2021/01/25)* !!-->
