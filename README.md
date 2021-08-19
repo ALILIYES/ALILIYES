@@ -40,9 +40,9 @@ This name means rainbow in the Latin
 
 ![](https://img.shields.io/badge/-C++-darkblue?style=flat-square&logo=C%2B%2B&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=fff)
-[![](https://img.shields.io/badge/macOS-Big sur-292e33?style=flat-square&logo=apple&logoColor=ffffff)]
-[![](https://img.shields.io/badge/OPPO-Reno-f5010c?style=flat-square&logo=huawei&logoColor=ffffff)]
-[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)]
+![](https://img.shields.io/badge/macOS-Big sur-292e33?style=flat-square&logo=apple&logoColor=ffffff)
+![](https://img.shields.io/badge/OPPO-Reno-f5010c?style=flat-square&logo=huawei&logoColor=ffffff)
+![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)
 
 
 <!--You are the ![Vister num, plz refresh](https://visitor-badge.glitch.me/badge?page_id=Nambers.Nambers.readme) *(since 2021/01/25)* !!-->
